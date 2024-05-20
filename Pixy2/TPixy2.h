@@ -202,7 +202,6 @@ template <class LinkType> int16_t TPixy2<LinkType>::getSync()
       if (j>=4)
       {
 #ifdef PIXY_DEBUG
-        Serial.println("error: no response");
 #endif		  
         return PIXY_RESULT_ERROR;
       }

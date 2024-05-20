@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For SensorTCS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SensorTCS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ReadColor	KEYWORD2
+ReadFrequency	KEYWORD2
+

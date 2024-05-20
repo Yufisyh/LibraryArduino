@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For TPAbuatan
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TPA81buatan	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getAmbient	KEYWORD2
+getPoint	KEYWORD2
+settingbaudrate	KEYWORD2
+derajatnilai	KEYWORD2
+printhasilsensor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
